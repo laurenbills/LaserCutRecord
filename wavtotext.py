@@ -10,7 +10,7 @@ import struct
 bitDepth = 8#target bitDepth
 frate = 44100#target frame rate
 
-fileName = "space.wav"#file to be imported (change this)
+fileName = "laser_cut_file.wav"#file to be imported (change this)
 
 #read file and get data
 w = wave.open(fileName, 'r')
